@@ -1,0 +1,26 @@
+
+.rating_stars{
+	overflow: hidden;
+}
+
+.rating_stars p{
+	float: left;
+    margin: 0;
+    margin-right: 10px;
+}
+
+.rateit.rateit-font{
+	margin: 10px 5px;
+}
+
+.rateit.rateit-font .rateit-reset span{
+	height: calc(65% - 0.045em) !important;
+}
+
+div.wpcf7-response-output{
+	margin: 4em 0.5em 1em;
+}
+
+.rateit-font .rateit-range > div{
+	height: 27px;
+}
